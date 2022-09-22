@@ -7,4 +7,4 @@ To build and run:
 To test installation inside the container:  
 `agda --compile hello-world.agda && ./hello-world`
 - [ ] TODO: upload it to dockerhub.
-- [ ] TODO: using multi-stage building to save some disk space.  
+- [ ] TODO: use multi-stage building to save some disk space.  
