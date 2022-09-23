@@ -8,6 +8,7 @@ Image size could be a bit large (~4GB).
 To build: 
 ```
 docker build . -f tspl.Dockerfile
+docker image tag $DOCKER_IMG_ID emagda
 ```
 
 To run: 
